@@ -1,0 +1,356 @@
+11:00:58.192 INFO  Loading commands... 
+11:00:58.523 DEBUG Skipping slash command avatar. Disabled! 
+11:00:58.533 DEBUG Skipping slash command botinvite. Disabled! 
+11:00:58.860 DEBUG Skipping slash command botstats. Disabled! 
+11:00:58.873 DEBUG Skipping slash command channelinfo. Disabled! 
+11:00:58.884 DEBUG Skipping slash command emojiinfo. Disabled! 
+11:00:58.917 DEBUG Skipping slash command guildinfo. Disabled! 
+11:00:58.930 DEBUG Skipping slash command uptime. Disabled! 
+11:00:58.945 DEBUG Skipping slash command userinfo. Disabled! 
+11:00:58.977 DEBUG Skipping command bot. Disabled! 
+11:00:58.985 DEBUG Skipping command info. Disabled! 
+11:00:59.094 DEBUG Skipping slash command deafen. Disabled! 
+11:00:59.130 DEBUG Skipping slash command disconnect. Disabled! 
+11:00:59.150 DEBUG Skipping slash command move. Disabled! 
+11:00:59.163 DEBUG Skipping slash command purge. Disabled! 
+11:00:59.169 DEBUG Skipping slash command purgeattach. Disabled! 
+11:00:59.178 DEBUG Skipping slash command purgebots. Disabled! 
+11:00:59.187 DEBUG Skipping slash command purgelinks. Disabled! 
+11:00:59.195 DEBUG Skipping slash command purgetoken. Disabled! 
+11:00:59.201 DEBUG Skipping slash command purgeuser. Disabled! 
+11:00:59.225 DEBUG Skipping command purge. Disabled! 
+11:00:59.232 DEBUG Skipping command voice. Disabled! 
+11:00:59.252 DEBUG Skipping slash command undeafen. Disabled! 
+11:00:59.264 DEBUG Skipping slash command vmute. Disabled! 
+11:00:59.270 DEBUG Skipping slash command vunmute. Disabled! 
+11:00:59.521 INFO  Loaded 96 commands 
+11:00:59.521 INFO  Loaded 80 slash commands 
+11:00:59.522 INFO  Loading contexts... 
+11:00:59.538 INFO  Loaded 2 USER contexts 
+11:00:59.538 INFO  Loaded 0 MESSAGE contexts 
+11:00:59.539 INFO  Loading events... 
+11:00:59.725 INFO  Loaded 22 events. Success (22) Failed (0) 
+11:00:59.726 INFO  Validating config.js and environment variables 
+11:00:59.726 INFO  Connecting to MongoDb... 
+11:41:58.455 INFO  Loading commands... 
+11:41:58.797 DEBUG Skipping slash command avatar. Disabled! 
+11:41:58.808 DEBUG Skipping slash command botinvite. Disabled! 
+11:41:59.126 DEBUG Skipping slash command botstats. Disabled! 
+11:41:59.140 DEBUG Skipping slash command channelinfo. Disabled! 
+11:41:59.151 DEBUG Skipping slash command emojiinfo. Disabled! 
+11:41:59.165 DEBUG Skipping slash command guildinfo. Disabled! 
+11:41:59.169 DEBUG Skipping slash command uptime. Disabled! 
+11:41:59.181 DEBUG Skipping slash command userinfo. Disabled! 
+11:41:59.209 DEBUG Skipping command bot. Disabled! 
+11:41:59.218 DEBUG Skipping command info. Disabled! 
+11:41:59.302 DEBUG Skipping slash command deafen. Disabled! 
+11:41:59.312 DEBUG Skipping slash command disconnect. Disabled! 
+11:41:59.328 DEBUG Skipping slash command move. Disabled! 
+11:41:59.339 DEBUG Skipping slash command purge. Disabled! 
+11:41:59.345 DEBUG Skipping slash command purgeattach. Disabled! 
+11:41:59.350 DEBUG Skipping slash command purgebots. Disabled! 
+11:41:59.356 DEBUG Skipping slash command purgelinks. Disabled! 
+11:41:59.361 DEBUG Skipping slash command purgetoken. Disabled! 
+11:41:59.367 DEBUG Skipping slash command purgeuser. Disabled! 
+11:41:59.389 DEBUG Skipping command purge. Disabled! 
+11:41:59.397 DEBUG Skipping command voice. Disabled! 
+11:41:59.417 DEBUG Skipping slash command undeafen. Disabled! 
+11:41:59.431 DEBUG Skipping slash command vmute. Disabled! 
+11:41:59.437 DEBUG Skipping slash command vunmute. Disabled! 
+11:41:59.721 INFO  Loaded 96 commands 
+11:41:59.722 INFO  Loaded 80 slash commands 
+11:41:59.722 INFO  Loading contexts... 
+11:41:59.739 INFO  Loaded 2 USER contexts 
+11:41:59.739 INFO  Loaded 0 MESSAGE contexts 
+11:41:59.740 INFO  Loading events... 
+11:41:59.962 INFO  Loaded 22 events. Success (22) Failed (0) 
+11:41:59.962 INFO  Validating config.js and environment variables 
+11:41:59.963 INFO  Connecting to MongoDb... 
+11:42:00.496 INFO  Mongoose: Database connection established 
+11:42:00.836 INFO  VersionCheck: Your discord bot is up to date 
+11:42:01.059 ERROR An invalid token was provided.
+{}
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (C:\Users\demna\Desktop\discord-js-bot-main\node_modules\discord.js\src\client\websocket\WebSocketManager.js:129:26)
+    at BotClient.login (C:\Users\demna\Desktop\discord-js-bot-main\node_modules\discord.js\src\client\Client.js:254:21)
+    at C:\Users\demna\Desktop\discord-js-bot-main\bot.js:43:16
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+12:46:35.139 INFO  Loading commands... 
+12:46:35.188 DEBUG Skipping slash command avatar. Disabled! 
+12:46:35.189 DEBUG Skipping slash command botinvite. Disabled! 
+12:46:35.220 DEBUG Skipping slash command botstats. Disabled! 
+12:46:35.221 DEBUG Skipping slash command channelinfo. Disabled! 
+12:46:35.222 DEBUG Skipping slash command emojiinfo. Disabled! 
+12:46:35.223 DEBUG Skipping slash command guildinfo. Disabled! 
+12:46:35.223 DEBUG Skipping slash command uptime. Disabled! 
+12:46:35.224 DEBUG Skipping slash command userinfo. Disabled! 
+12:46:35.228 DEBUG Skipping command bot. Disabled! 
+12:46:35.229 DEBUG Skipping command info. Disabled! 
+12:46:35.238 DEBUG Skipping slash command deafen. Disabled! 
+12:46:35.239 DEBUG Skipping slash command disconnect. Disabled! 
+12:46:35.241 DEBUG Skipping slash command move. Disabled! 
+12:46:35.242 DEBUG Skipping slash command purge. Disabled! 
+12:46:35.242 DEBUG Skipping slash command purgeattach. Disabled! 
+12:46:35.243 DEBUG Skipping slash command purgebots. Disabled! 
+12:46:35.244 DEBUG Skipping slash command purgelinks. Disabled! 
+12:46:35.244 DEBUG Skipping slash command purgetoken. Disabled! 
+12:46:35.245 DEBUG Skipping slash command purgeuser. Disabled! 
+12:46:35.247 DEBUG Skipping command purge. Disabled! 
+12:46:35.247 DEBUG Skipping command voice. Disabled! 
+12:46:35.249 DEBUG Skipping slash command undeafen. Disabled! 
+12:46:35.250 DEBUG Skipping slash command vmute. Disabled! 
+12:46:35.251 DEBUG Skipping slash command vunmute. Disabled! 
+12:46:35.274 INFO  Loaded 96 commands 
+12:46:35.274 INFO  Loaded 80 slash commands 
+12:46:35.274 INFO  Loading contexts... 
+12:46:35.277 INFO  Loaded 2 USER contexts 
+12:46:35.278 INFO  Loaded 0 MESSAGE contexts 
+12:46:35.279 INFO  Loading events... 
+12:46:35.316 INFO  Loaded 22 events. Success (22) Failed (0) 
+12:46:35.317 INFO  Validating config.js and environment variables 
+12:46:35.318 INFO  Connecting to MongoDb... 
+12:46:35.868 INFO  Mongoose: Database connection established 
+12:46:36.186 INFO  VersionCheck: Your discord bot is up to date 
+12:46:36.370 ERROR An invalid token was provided.
+{}
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (C:\Users\demna\Desktop\discord-js-bot-main\node_modules\discord.js\src\client\websocket\WebSocketManager.js:129:26)
+    at BotClient.login (C:\Users\demna\Desktop\discord-js-bot-main\node_modules\discord.js\src\client\Client.js:254:21)
+    at C:\Users\demna\Desktop\discord-js-bot-main\bot.js:43:16
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+12:49:50.166 INFO  Loading commands... 
+12:49:50.214 DEBUG Skipping slash command avatar. Disabled! 
+12:49:50.216 DEBUG Skipping slash command botinvite. Disabled! 
+12:49:50.248 DEBUG Skipping slash command botstats. Disabled! 
+12:49:50.249 DEBUG Skipping slash command channelinfo. Disabled! 
+12:49:50.250 DEBUG Skipping slash command emojiinfo. Disabled! 
+12:49:50.251 DEBUG Skipping slash command guildinfo. Disabled! 
+12:49:50.252 DEBUG Skipping slash command uptime. Disabled! 
+12:49:50.254 DEBUG Skipping slash command userinfo. Disabled! 
+12:49:50.257 DEBUG Skipping command bot. Disabled! 
+12:49:50.258 DEBUG Skipping command info. Disabled! 
+12:49:50.266 DEBUG Skipping slash command deafen. Disabled! 
+12:49:50.267 DEBUG Skipping slash command disconnect. Disabled! 
+12:49:50.269 DEBUG Skipping slash command move. Disabled! 
+12:49:50.270 DEBUG Skipping slash command purge. Disabled! 
+12:49:50.270 DEBUG Skipping slash command purgeattach. Disabled! 
+12:49:50.271 DEBUG Skipping slash command purgebots. Disabled! 
+12:49:50.271 DEBUG Skipping slash command purgelinks. Disabled! 
+12:49:50.272 DEBUG Skipping slash command purgetoken. Disabled! 
+12:49:50.272 DEBUG Skipping slash command purgeuser. Disabled! 
+12:49:50.274 DEBUG Skipping command purge. Disabled! 
+12:49:50.275 DEBUG Skipping command voice. Disabled! 
+12:49:50.277 DEBUG Skipping slash command undeafen. Disabled! 
+12:49:50.278 DEBUG Skipping slash command vmute. Disabled! 
+12:49:50.278 DEBUG Skipping slash command vunmute. Disabled! 
+12:49:50.301 INFO  Loaded 96 commands 
+12:49:50.301 INFO  Loaded 80 slash commands 
+12:49:50.302 INFO  Loading contexts... 
+12:49:50.304 INFO  Loaded 2 USER contexts 
+12:49:50.304 INFO  Loaded 0 MESSAGE contexts 
+12:49:50.305 INFO  Loading events... 
+12:49:50.343 INFO  Loaded 22 events. Success (22) Failed (0) 
+12:49:50.343 INFO  Validating config.js and environment variables 
+12:49:50.344 INFO  Connecting to MongoDb... 
+12:49:50.823 INFO  Mongoose: Database connection established 
+12:49:51.180 INFO  VersionCheck: Your discord bot is up to date 
+12:49:51.848 INFO  Logged in as Dijei Gela#6667! (902642632126255115) 
+12:49:51.849 INFO  Initializing music manager 
+12:49:51.852 INFO  Initializing giveaways manager 
+12:49:51.911 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+12:49:52.264 INFO  Node "USA Link" connected 
+12:49:56.914 WARN  Node "German Link" is reconnecting 
+12:49:56.920 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+12:50:01.922 WARN  Node "German Link" is reconnecting 
+12:50:01.924 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+12:50:06.925 WARN  Node "German Link" is reconnecting 
+12:50:06.939 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+12:50:11.942 WARN  Node "German Link" is reconnecting 
+12:50:11.945 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+12:50:16.945 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (C:\Users\demna\Desktop\discord-js-bot-main\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7) 
+13:20:12.184 INFO  Loading commands... 
+13:20:12.251 DEBUG Skipping slash command avatar. Disabled! 
+13:20:12.253 DEBUG Skipping slash command botinvite. Disabled! 
+13:20:12.286 DEBUG Skipping slash command botstats. Disabled! 
+13:20:12.287 DEBUG Skipping slash command channelinfo. Disabled! 
+13:20:12.288 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:20:12.290 DEBUG Skipping slash command guildinfo. Disabled! 
+13:20:12.290 DEBUG Skipping slash command uptime. Disabled! 
+13:20:12.291 DEBUG Skipping slash command userinfo. Disabled! 
+13:20:12.295 DEBUG Skipping command bot. Disabled! 
+13:20:12.296 DEBUG Skipping command info. Disabled! 
+13:20:12.305 DEBUG Skipping slash command deafen. Disabled! 
+13:20:12.306 DEBUG Skipping slash command disconnect. Disabled! 
+13:20:12.308 DEBUG Skipping slash command move. Disabled! 
+13:20:12.309 DEBUG Skipping slash command purge. Disabled! 
+13:20:12.310 DEBUG Skipping slash command purgeattach. Disabled! 
+13:20:12.310 DEBUG Skipping slash command purgebots. Disabled! 
+13:20:12.311 DEBUG Skipping slash command purgelinks. Disabled! 
+13:20:12.311 DEBUG Skipping slash command purgetoken. Disabled! 
+13:20:12.312 DEBUG Skipping slash command purgeuser. Disabled! 
+13:20:12.314 DEBUG Skipping command purge. Disabled! 
+13:20:12.315 DEBUG Skipping command voice. Disabled! 
+13:20:12.317 DEBUG Skipping slash command undeafen. Disabled! 
+13:20:12.318 DEBUG Skipping slash command vmute. Disabled! 
+13:20:12.319 DEBUG Skipping slash command vunmute. Disabled! 
+13:20:12.366 INFO  Loaded 96 commands 
+13:20:12.366 INFO  Loaded 80 slash commands 
+13:20:12.367 INFO  Loading contexts... 
+13:20:12.369 INFO  Loaded 2 USER contexts 
+13:20:12.370 INFO  Loaded 0 MESSAGE contexts 
+13:20:12.370 INFO  Loading events... 
+13:20:12.416 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:20:12.417 INFO  Validating config.js and environment variables 
+13:20:12.417 INFO  Connecting to MongoDb... 
+13:20:12.977 INFO  Mongoose: Database connection established 
+13:20:13.274 INFO  VersionCheck: Your discord bot is up to date 
+13:20:14.014 INFO  Logged in as Dijei Gela#6667! (902642632126255115) 
+13:20:14.014 INFO  Initializing music manager 
+13:20:14.016 INFO  Initializing giveaways manager 
+13:20:14.029 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+13:20:14.383 INFO  Node "USA Link" connected 
+13:20:19.030 WARN  Node "German Link" is reconnecting 
+13:20:19.032 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+13:20:24.033 WARN  Node "German Link" is reconnecting 
+13:20:24.037 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+13:20:29.038 WARN  Node "German Link" is reconnecting 
+13:20:29.040 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+13:20:34.043 WARN  Node "German Link" is reconnecting 
+13:20:34.045 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+13:20:39.049 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (C:\Users\demna\Desktop\Dijei Gela\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7) 
+13:52:22.969 INFO  Loading commands... 
+13:52:23.020 DEBUG Skipping slash command avatar. Disabled! 
+13:52:23.021 DEBUG Skipping slash command botinvite. Disabled! 
+13:52:23.051 DEBUG Skipping slash command botstats. Disabled! 
+13:52:23.052 DEBUG Skipping slash command channelinfo. Disabled! 
+13:52:23.053 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:52:23.055 DEBUG Skipping slash command guildinfo. Disabled! 
+13:52:23.055 DEBUG Skipping slash command uptime. Disabled! 
+13:52:23.057 DEBUG Skipping slash command userinfo. Disabled! 
+13:52:23.061 DEBUG Skipping command bot. Disabled! 
+13:52:23.062 DEBUG Skipping command info. Disabled! 
+13:52:23.071 DEBUG Skipping slash command deafen. Disabled! 
+13:52:23.072 DEBUG Skipping slash command disconnect. Disabled! 
+13:52:23.073 DEBUG Skipping slash command move. Disabled! 
+13:52:23.074 DEBUG Skipping slash command purge. Disabled! 
+13:52:23.075 DEBUG Skipping slash command purgeattach. Disabled! 
+13:52:23.075 DEBUG Skipping slash command purgebots. Disabled! 
+13:52:23.076 DEBUG Skipping slash command purgelinks. Disabled! 
+13:52:23.076 DEBUG Skipping slash command purgetoken. Disabled! 
+13:52:23.077 DEBUG Skipping slash command purgeuser. Disabled! 
+13:52:23.079 DEBUG Skipping command purge. Disabled! 
+13:52:23.079 DEBUG Skipping command voice. Disabled! 
+13:52:23.081 DEBUG Skipping slash command undeafen. Disabled! 
+13:52:23.082 DEBUG Skipping slash command vmute. Disabled! 
+13:52:23.083 DEBUG Skipping slash command vunmute. Disabled! 
+13:52:23.104 INFO  Loaded 96 commands 
+13:52:23.105 INFO  Loaded 80 slash commands 
+13:52:23.105 INFO  Loading contexts... 
+13:52:23.107 INFO  Loaded 2 USER contexts 
+13:52:23.108 INFO  Loaded 0 MESSAGE contexts 
+13:52:23.108 INFO  Loading events... 
+13:52:23.152 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:52:23.152 INFO  Validating config.js and environment variables 
+13:52:23.152 INFO  Connecting to MongoDb... 
+13:52:23.642 INFO  Mongoose: Database connection established 
+13:52:23.962 INFO  VersionCheck: Your discord bot is up to date 
+13:52:24.702 INFO  Logged in as Dijei Gela#6667! (902642632126255115) 
+13:52:24.702 INFO  Initializing music manager 
+13:52:24.704 INFO  Initializing giveaways manager 
+13:52:24.760 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+13:52:25.102 INFO  Node "USA Link" connected 
+13:52:29.763 WARN  Node "German Link" is reconnecting 
+13:52:29.770 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+13:52:34.770 WARN  Node "German Link" is reconnecting 
+13:52:34.772 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+13:52:39.773 WARN  Node "German Link" is reconnecting 
+13:52:39.780 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+13:52:44.784 WARN  Node "German Link" is reconnecting 
+13:52:44.789 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+13:52:49.793 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (C:\Users\demna\Desktop\Dijei Gela\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7) 
+13:54:28.625 ERROR The language 'ge' is not supported
+{"code":400,"message":"The language 'ge' is not supported"}
+Error: The language 'ge' is not supported
+    at C:\Users\demna\Desktop\Dijei Gela\node_modules\@vitalets\google-translate-api\index.js:22:17
+    at Array.forEach (<anonymous>)
+    at translate (C:\Users\demna\Desktop\Dijei Gela\node_modules\@vitalets\google-translate-api\index.js:20:26)
+    at translate (C:\Users\demna\Desktop\Dijei Gela\src\utils\httpUtils.js:58:28)
+    at getTranslation (C:\Users\demna\Desktop\Dijei Gela\src\commands\utility\translate.js:83:22)
+    at TranslateCommand.messageRun (C:\Users\demna\Desktop\Dijei Gela\src\commands\utility\translate.js:67:28)
+    at TranslateCommand.executeCommand (C:\Users\demna\Desktop\Dijei Gela\src\structures\Command.js:160:18)
+    at module.exports (C:\Users\demna\Desktop\Dijei Gela\src\events\message\messageCreate.js:30:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+13:54:28.625 DEBUG Content - suck hes dick OutputCode: ge 
+13:54:59.488 ERROR The language 'ge' is not supported
+{"code":400,"message":"The language 'ge' is not supported"}
+Error: The language 'ge' is not supported
+    at C:\Users\demna\Desktop\Dijei Gela\node_modules\@vitalets\google-translate-api\index.js:22:17
+    at Array.forEach (<anonymous>)
+    at translate (C:\Users\demna\Desktop\Dijei Gela\node_modules\@vitalets\google-translate-api\index.js:20:26)
+    at translate (C:\Users\demna\Desktop\Dijei Gela\src\utils\httpUtils.js:58:28)
+    at getTranslation (C:\Users\demna\Desktop\Dijei Gela\src\commands\utility\translate.js:83:22)
+    at TranslateCommand.messageRun (C:\Users\demna\Desktop\Dijei Gela\src\commands\utility\translate.js:67:28)
+    at TranslateCommand.executeCommand (C:\Users\demna\Desktop\Dijei Gela\src\structures\Command.js:160:18)
+    at module.exports (C:\Users\demna\Desktop\Dijei Gela\src\events\message\messageCreate.js:30:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+13:54:59.488 DEBUG Content - love u OutputCode: ge 

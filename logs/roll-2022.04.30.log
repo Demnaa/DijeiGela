@@ -1,0 +1,190 @@
+22:35:09.137 INFO  Loading commands... 
+22:35:09.189 DEBUG Skipping slash command avatar. Disabled! 
+22:35:09.190 DEBUG Skipping slash command botinvite. Disabled! 
+22:35:09.224 DEBUG Skipping slash command botstats. Disabled! 
+22:35:09.225 DEBUG Skipping slash command channelinfo. Disabled! 
+22:35:09.226 DEBUG Skipping slash command emojiinfo. Disabled! 
+22:35:09.228 DEBUG Skipping slash command guildinfo. Disabled! 
+22:35:09.228 DEBUG Skipping slash command uptime. Disabled! 
+22:35:09.229 DEBUG Skipping slash command userinfo. Disabled! 
+22:35:09.232 DEBUG Skipping command bot. Disabled! 
+22:35:09.233 DEBUG Skipping command info. Disabled! 
+22:35:09.243 DEBUG Skipping slash command deafen. Disabled! 
+22:35:09.244 DEBUG Skipping slash command disconnect. Disabled! 
+22:35:09.246 DEBUG Skipping slash command move. Disabled! 
+22:35:09.247 DEBUG Skipping slash command purge. Disabled! 
+22:35:09.248 DEBUG Skipping slash command purgeattach. Disabled! 
+22:35:09.248 DEBUG Skipping slash command purgebots. Disabled! 
+22:35:09.249 DEBUG Skipping slash command purgelinks. Disabled! 
+22:35:09.249 DEBUG Skipping slash command purgetoken. Disabled! 
+22:35:09.250 DEBUG Skipping slash command purgeuser. Disabled! 
+22:35:09.252 DEBUG Skipping command purge. Disabled! 
+22:35:09.252 DEBUG Skipping command voice. Disabled! 
+22:35:09.254 DEBUG Skipping slash command undeafen. Disabled! 
+22:35:09.255 DEBUG Skipping slash command vmute. Disabled! 
+22:35:09.255 DEBUG Skipping slash command vunmute. Disabled! 
+22:35:09.281 INFO  Loaded 96 commands 
+22:35:09.281 INFO  Loaded 80 slash commands 
+22:35:09.282 INFO  Loading contexts... 
+22:35:09.284 INFO  Loaded 2 USER contexts 
+22:35:09.285 INFO  Loaded 0 MESSAGE contexts 
+22:35:09.285 INFO  Loading events... 
+22:35:09.323 INFO  Loaded 22 events. Success (22) Failed (0) 
+22:38:06.516 INFO  Loading commands... 
+22:38:06.565 DEBUG Skipping slash command avatar. Disabled! 
+22:38:06.566 DEBUG Skipping slash command botinvite. Disabled! 
+22:38:06.595 DEBUG Skipping slash command botstats. Disabled! 
+22:38:06.596 DEBUG Skipping slash command channelinfo. Disabled! 
+22:38:06.597 DEBUG Skipping slash command emojiinfo. Disabled! 
+22:38:06.599 DEBUG Skipping slash command guildinfo. Disabled! 
+22:38:06.599 DEBUG Skipping slash command uptime. Disabled! 
+22:38:06.600 DEBUG Skipping slash command userinfo. Disabled! 
+22:38:06.604 DEBUG Skipping command bot. Disabled! 
+22:38:06.604 DEBUG Skipping command info. Disabled! 
+22:38:06.613 DEBUG Skipping slash command deafen. Disabled! 
+22:38:06.614 DEBUG Skipping slash command disconnect. Disabled! 
+22:38:06.615 DEBUG Skipping slash command move. Disabled! 
+22:38:06.616 DEBUG Skipping slash command purge. Disabled! 
+22:38:06.616 DEBUG Skipping slash command purgeattach. Disabled! 
+22:38:06.617 DEBUG Skipping slash command purgebots. Disabled! 
+22:38:06.618 DEBUG Skipping slash command purgelinks. Disabled! 
+22:38:06.618 DEBUG Skipping slash command purgetoken. Disabled! 
+22:38:06.619 DEBUG Skipping slash command purgeuser. Disabled! 
+22:38:06.620 DEBUG Skipping command purge. Disabled! 
+22:38:06.621 DEBUG Skipping command voice. Disabled! 
+22:38:06.623 DEBUG Skipping slash command undeafen. Disabled! 
+22:38:06.623 DEBUG Skipping slash command vmute. Disabled! 
+22:38:06.624 DEBUG Skipping slash command vunmute. Disabled! 
+22:38:06.645 INFO  Loaded 96 commands 
+22:38:06.646 INFO  Loaded 80 slash commands 
+22:38:06.646 INFO  Loading contexts... 
+22:38:06.648 INFO  Loaded 2 USER contexts 
+22:38:06.649 INFO  Loaded 0 MESSAGE contexts 
+22:38:06.649 INFO  Loading events... 
+22:38:06.689 INFO  Loaded 22 events. Success (22) Failed (0) 
+22:38:06.689 INFO  Validating config.js and environment variables 
+22:38:06.689 INFO  Connecting to MongoDb... 
+22:38:07.184 INFO  Mongoose: Database connection established 
+22:38:07.527 INFO  VersionCheck: Your discord bot is up to date 
+22:38:08.095 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\demna\Desktop\discord-js-bot-main\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\demna\Desktop\discord-js-bot-main\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\demna\Desktop\discord-js-bot-main\bot.js:42:3 
+22:39:13.043 INFO  Loading commands... 
+22:39:13.102 DEBUG Skipping slash command avatar. Disabled! 
+22:39:13.104 DEBUG Skipping slash command botinvite. Disabled! 
+22:39:13.138 DEBUG Skipping slash command botstats. Disabled! 
+22:39:13.139 DEBUG Skipping slash command channelinfo. Disabled! 
+22:39:13.140 DEBUG Skipping slash command emojiinfo. Disabled! 
+22:39:13.142 DEBUG Skipping slash command guildinfo. Disabled! 
+22:39:13.142 DEBUG Skipping slash command uptime. Disabled! 
+22:39:13.143 DEBUG Skipping slash command userinfo. Disabled! 
+22:39:13.148 DEBUG Skipping command bot. Disabled! 
+22:39:13.149 DEBUG Skipping command info. Disabled! 
+22:39:13.160 DEBUG Skipping slash command deafen. Disabled! 
+22:39:13.160 DEBUG Skipping slash command disconnect. Disabled! 
+22:39:13.162 DEBUG Skipping slash command move. Disabled! 
+22:39:13.164 DEBUG Skipping slash command purge. Disabled! 
+22:39:13.165 DEBUG Skipping slash command purgeattach. Disabled! 
+22:39:13.166 DEBUG Skipping slash command purgebots. Disabled! 
+22:39:13.166 DEBUG Skipping slash command purgelinks. Disabled! 
+22:39:13.167 DEBUG Skipping slash command purgetoken. Disabled! 
+22:39:13.167 DEBUG Skipping slash command purgeuser. Disabled! 
+22:39:13.169 DEBUG Skipping command purge. Disabled! 
+22:39:13.170 DEBUG Skipping command voice. Disabled! 
+22:39:13.172 DEBUG Skipping slash command undeafen. Disabled! 
+22:39:13.173 DEBUG Skipping slash command vmute. Disabled! 
+22:39:13.174 DEBUG Skipping slash command vunmute. Disabled! 
+22:39:13.207 INFO  Loaded 96 commands 
+22:39:13.207 INFO  Loaded 80 slash commands 
+22:39:13.208 INFO  Loading contexts... 
+22:39:13.211 INFO  Loaded 2 USER contexts 
+22:39:13.212 INFO  Loaded 0 MESSAGE contexts 
+22:39:13.212 INFO  Loading events... 
+22:39:13.263 INFO  Loaded 22 events. Success (22) Failed (0) 
+22:53:35.972 INFO  Loading commands... 
+22:53:36.077 DEBUG Skipping slash command avatar. Disabled! 
+22:53:36.078 DEBUG Skipping slash command botinvite. Disabled! 
+22:53:36.116 DEBUG Skipping slash command botstats. Disabled! 
+22:53:36.119 DEBUG Skipping slash command channelinfo. Disabled! 
+22:53:36.120 DEBUG Skipping slash command emojiinfo. Disabled! 
+22:53:36.121 DEBUG Skipping slash command guildinfo. Disabled! 
+22:53:36.122 DEBUG Skipping slash command uptime. Disabled! 
+22:53:36.124 DEBUG Skipping slash command userinfo. Disabled! 
+22:53:36.127 DEBUG Skipping command bot. Disabled! 
+22:53:36.128 DEBUG Skipping command info. Disabled! 
+22:53:36.144 DEBUG Skipping slash command deafen. Disabled! 
+22:53:36.147 DEBUG Skipping slash command disconnect. Disabled! 
+22:53:36.149 DEBUG Skipping slash command move. Disabled! 
+22:53:36.150 DEBUG Skipping slash command purge. Disabled! 
+22:53:36.151 DEBUG Skipping slash command purgeattach. Disabled! 
+22:53:36.151 DEBUG Skipping slash command purgebots. Disabled! 
+22:53:36.152 DEBUG Skipping slash command purgelinks. Disabled! 
+22:53:36.153 DEBUG Skipping slash command purgetoken. Disabled! 
+22:53:36.153 DEBUG Skipping slash command purgeuser. Disabled! 
+22:53:36.155 DEBUG Skipping command purge. Disabled! 
+22:53:36.156 DEBUG Skipping command voice. Disabled! 
+22:53:36.159 DEBUG Skipping slash command undeafen. Disabled! 
+22:53:36.162 DEBUG Skipping slash command vmute. Disabled! 
+22:53:36.162 DEBUG Skipping slash command vunmute. Disabled! 
+22:53:36.193 INFO  Loaded 96 commands 
+22:53:36.193 INFO  Loaded 80 slash commands 
+22:53:36.194 INFO  Loading contexts... 
+22:53:36.197 INFO  Loaded 2 USER contexts 
+22:53:36.198 INFO  Loaded 0 MESSAGE contexts 
+22:53:36.201 INFO  Loading events... 
+22:53:36.247 INFO  Loaded 22 events. Success (22) Failed (0) 
+22:53:36.248 INFO  Validating config.js and environment variables 
+22:53:36.248 INFO  Connecting to MongoDb... 
+22:53:36.886 INFO  Mongoose: Database connection established 
+22:53:37.243 INFO  VersionCheck: Your discord bot is up to date 
+22:53:38.120 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\demna\Desktop\discord-js-bot-main\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\demna\Desktop\discord-js-bot-main\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\demna\Desktop\discord-js-bot-main\bot.js:43:3 
+23:28:10.249 INFO  Loading commands... 
+23:28:10.297 DEBUG Skipping slash command avatar. Disabled! 
+23:28:10.298 DEBUG Skipping slash command botinvite. Disabled! 
+23:28:10.328 DEBUG Skipping slash command botstats. Disabled! 
+23:28:10.329 DEBUG Skipping slash command channelinfo. Disabled! 
+23:28:10.330 DEBUG Skipping slash command emojiinfo. Disabled! 
+23:28:10.331 DEBUG Skipping slash command guildinfo. Disabled! 
+23:28:10.332 DEBUG Skipping slash command uptime. Disabled! 
+23:28:10.334 DEBUG Skipping slash command userinfo. Disabled! 
+23:28:10.337 DEBUG Skipping command bot. Disabled! 
+23:28:10.337 DEBUG Skipping command info. Disabled! 
+23:28:10.347 DEBUG Skipping slash command deafen. Disabled! 
+23:28:10.348 DEBUG Skipping slash command disconnect. Disabled! 
+23:28:10.349 DEBUG Skipping slash command move. Disabled! 
+23:28:10.351 DEBUG Skipping slash command purge. Disabled! 
+23:28:10.351 DEBUG Skipping slash command purgeattach. Disabled! 
+23:28:10.352 DEBUG Skipping slash command purgebots. Disabled! 
+23:28:10.352 DEBUG Skipping slash command purgelinks. Disabled! 
+23:28:10.353 DEBUG Skipping slash command purgetoken. Disabled! 
+23:28:10.354 DEBUG Skipping slash command purgeuser. Disabled! 
+23:28:10.356 DEBUG Skipping command purge. Disabled! 
+23:28:10.356 DEBUG Skipping command voice. Disabled! 
+23:28:10.358 DEBUG Skipping slash command undeafen. Disabled! 
+23:28:10.359 DEBUG Skipping slash command vmute. Disabled! 
+23:28:10.359 DEBUG Skipping slash command vunmute. Disabled! 
+23:28:10.382 INFO  Loaded 96 commands 
+23:28:10.382 INFO  Loaded 80 slash commands 
+23:28:10.383 INFO  Loading contexts... 
+23:28:10.385 INFO  Loaded 2 USER contexts 
+23:28:10.386 INFO  Loaded 0 MESSAGE contexts 
+23:28:10.386 INFO  Loading events... 
+23:28:10.446 INFO  Loaded 22 events. Success (22) Failed (0) 
+23:28:10.447 INFO  Validating config.js and environment variables 
+23:28:10.455 INFO  Connecting to MongoDb... 
+23:28:10.999 INFO  Mongoose: Database connection established 
+23:28:11.337 INFO  VersionCheck: Your discord bot is up to date 
+23:28:11.949 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\demna\Desktop\discord-js-bot-main\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\demna\Desktop\discord-js-bot-main\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\demna\Desktop\discord-js-bot-main\bot.js:43:3 
